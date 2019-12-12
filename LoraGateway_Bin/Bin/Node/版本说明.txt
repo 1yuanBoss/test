@@ -1,0 +1,3 @@
+版本：ibeaconObserver_20190104V1.0.hex
+	说明：1）增加rssi数据反馈
+
